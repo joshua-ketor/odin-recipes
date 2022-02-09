@@ -1,2 +1,2 @@
 # odin-recipes
-My first Odin Project using HTML
+My first Odin Project using HTML skills only.
