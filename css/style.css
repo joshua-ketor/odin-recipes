@@ -1,0 +1,35 @@
+body {
+    margin: 0 auto;
+    background-color: rgb(104, 101, 101);
+    color: white;
+}
+
+h1 {
+    background-color: rgb(79, 79, 207);
+    margin: 20px auto;
+    padding: 30px;
+    text-align: center;
+}
+
+ul,
+#home {
+    margin: 30px auto;
+    font-size: 24px;
+}
+
+.nav li,
+#home  {
+    background-color: rgb(255, 108, 108);
+    margin: 5px;
+    text-align: center;
+}
+
+ a {
+    color: rgb(31, 41, 51);
+}
+
+#home {
+    display: block;
+    padding: 5px;
+    color: white;
+}
